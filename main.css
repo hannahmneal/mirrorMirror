@@ -1,0 +1,33 @@
+section {
+
+
+}
+
+h1 {
+    /* clear: none; */
+}
+
+article {
+    display: inline;
+    width: 50%;
+    
+}
+
+#one {
+    flex-flow: row nowrap;
+    /* width: 50%;
+    height: 50%; */
+    border: 1px solid purple;
+
+}
+
+#two {
+    /* flex-flow: row nowrap;
+    width: 50%;
+    height: 50%; */
+    border: 1px solid teal;
+}
+
+button {
+    clear: auto;
+}
